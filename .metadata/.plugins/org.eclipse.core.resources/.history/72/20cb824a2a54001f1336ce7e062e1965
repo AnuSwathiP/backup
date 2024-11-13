@@ -1,0 +1,11 @@
+package mobileElementsScenarios;
+
+import org.testng.annotations.Test;
+
+public class locatorsinappium_1 {
+	//This script prepared based on Inspector
+	//1:44:08
+  @Test
+  public void testMobileElements() {
+  }
+}

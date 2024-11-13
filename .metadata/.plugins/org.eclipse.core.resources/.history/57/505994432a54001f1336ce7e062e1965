@@ -1,0 +1,9 @@
+package mobileElementsScenarios;
+
+import org.testng.annotations.Test;
+
+public class locatorsinappium_1 {
+  @Test
+  public void f() {
+  }
+}

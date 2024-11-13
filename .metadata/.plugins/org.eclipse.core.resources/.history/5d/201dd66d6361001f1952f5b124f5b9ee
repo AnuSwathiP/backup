@@ -1,0 +1,9 @@
+package scenario2;
+
+import org.testng.annotations.Test;
+
+public class DropDownAutomation {
+  @Test
+  public void f() {
+  }
+}

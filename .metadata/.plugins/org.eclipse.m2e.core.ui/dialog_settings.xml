@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ravir\eclipse-workspace\SelfPreparation\src\test\java\selenium\notes_1.java"/>
+			<item value="C:\Users\ravir\eclipse-workspace\preparation\src\test\java\com\selenium\SelectBaseDropDown_1.java"/>
+			<item value="C:\Users\ravir\eclipse-workspace\Appium3014\src\test\java\driversession\firstdriversession.java"/>
+			<item value="C:\Users\ravir\eclipse-workspace\DockerAssignment\amazonfile.xml"/>
+			<item value="C:\Users\ravir\eclipse-workspace\AutomationDevops3014"/>
+			<item value="C:\Users\ravir\eclipse-workspace\DockerAssignment\LiveTest"/>
+			<item value="C:\Users\ravir\eclipse-workspace\Hello\src\first\Hello.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="CapStoneProject.CapStoneProject"/>
+			<item value="SelfPreparation"/>
+			<item value="SelfPreparation.SelfPreparation"/>
+		</list>
+		<list key="groupId">
+			<item value="CapStoneProject"/>
+			<item value="SelfPreparation"/>
+		</list>
+		<list key="artifactId">
+			<item value="CapStoneProject"/>
+			<item value="SelfPreparation"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>
